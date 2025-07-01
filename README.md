@@ -1,3 +1,5 @@
+# APC
+
 📘 **Arbitrary Precision Calculator (APC) Project – Explanation**
 
 The Arbitrary Precision Calculator (APC) is a command-line application written in C that performs arithmetic operations on numbers far larger than those natively supported by standard data types like `int`, `long`, or `double`. The core purpose of this project is to emulate calculator functionality for extremely large integers with arbitrary length, achieving mathematical accuracy without overflow.
